@@ -1,1 +1,1 @@
-Test version of Student Registration
+CRUD Registration form using servlet, jsp and jdbc
